@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1335817970973_1" label="CodeJam Core" name="CodeJam Core">
+<item elementID="=codejam_core" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1335817879596_0" label="Window Working Set" name="Aggregate for window 1335817879595"/>
+<mruList name="CodeJam Core"/>
+</workingSetManager>
